@@ -97,7 +97,7 @@ def main():
   print("Writing summary to opinion-2-action/output/summary.txt...")
   write_summary(summary)
 
-  print("Done.")
+  print("Completed.")
 
 
 if __name__ == "__main__":
